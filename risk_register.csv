@@ -1,0 +1,7 @@
+risk_id,risk_name,risk_category,owner,probability,financial_impact,expected_loss,linked_financial_effect,status
+R001,Major donor attrition,Financial,Development,0.18,850000,153000,Q4 revenue pressure,Open
+R002,Grant timing shortfall,Financial,Advancement,0.2,600000,120000,Q3 revenue delay,Open
+R003,Cyber incident,Operational,IT,0.1,700000,70000,Q4 expense spike,Mitigating
+R004,Compliance reporting failure,Compliance,Compliance,0.08,450000,36000,Potential penalty cost,Mitigating
+R005,Staffing shortage,Operational,HR,0.16,280000,44800,Service delivery slowdown,Open
+R006,Facility disruption,BCM,Operations,0.06,500000,30000,Temporary program interruption,Mitigating
